@@ -28,6 +28,7 @@ class Employee extends Person {
 // Tworzymy obiekt klasy Employee
 const employee = new Employee("Anna", "Nowak", 28, "programistka");
 
+
 // Możemy korzystać z metod klasy Person
 employee.introduce(); // Cześć, jestem Anna Nowak i mam 28 lat.
 
