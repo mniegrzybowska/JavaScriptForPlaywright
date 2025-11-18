@@ -1,4 +1,4 @@
-function deliverPizza() {
+async function deliverPizza() {
     return new Promise((resolve, reject) => {
         console.log("Zamówienie złożone...");
 
